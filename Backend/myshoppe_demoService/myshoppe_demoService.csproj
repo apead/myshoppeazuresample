@@ -195,7 +195,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Properties\PublishProfiles\myshoppe-demo - Web Deploy.pubxml" />
-    <None Include="Properties\PublishProfiles\myshoppedemoService20170815042431 - Web Deploy.pubxml" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
